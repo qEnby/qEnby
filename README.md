@@ -17,3 +17,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qenby&show_icons=true&locale=en" alt="qenby" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qenby&" alt="qenby" /></p>
+
+
+![snake gif](https://github.com/qEnby/qEnby/blob/output/github-contribution-grid-snake.gif)

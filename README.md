@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osman</h1>
+<h1 align="center">Hi 👋, I'm qEnby</h1>
 <h3 align="center">A passionate Python developer from Türkiye</h3>
 
 - 📫 How to reach me **osmangenc00752@gmail.com**
